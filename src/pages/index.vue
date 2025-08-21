@@ -10,7 +10,7 @@
           </div>
         </div>
         <div class="sec2">
-          <h1 class="title name">黃彥華</h1>
+          <h1 class="title name">黃彥華 Ian Huang</h1>
           <ul>
             <li>目前正在尋找前端工程師的職缺。</li>
             <li>
